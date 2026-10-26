@@ -13,5 +13,5 @@ def banner():
 if __name__ == "__main__":
     banner()
     # --- ADD YOUR GREETING BELOW THIS LINE ---
-    # --- Welcome ---
-    print("Hello from CyberFox101")
+    # --- Welcome to the project team"
+    print("Hello from CyberFox101 and the team")
